@@ -1,1 +1,4 @@
 com\automation\tests\day1\MyFirstSeleniumScript.class
+com\automation\tests\day3\FindElementsPractice.class
+com\automation\tests\Day2\GoogleSearchTest.class
+com\automation\utilities\DriverFactory.class
